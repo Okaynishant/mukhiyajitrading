@@ -1,0 +1,53 @@
+#body
+{width:1100px;
+height:1000px;
+ position:relative;
+  background-color:green;
+border:1px solid black;
+}
+
+#pathak ul
+{	  
+      	color:green;
+
+	
+	border:1px solid black;	
+	
+	 width:1020px;
+    	  height:100px;
+	border-radius:12px;
+    	  background-color:white;
+      text-align:center;
+align:center;
+}
+#pathak1 ul
+{	  
+      	color:white;
+
+align:center;	
+	border:1px solid black;	
+	
+	 width:1020px;
+    	  height:300px;
+	border-radius:12px;
+    	  background-color:green;
+
+
+}
+#pathak5 ul
+{	  
+      	color:green;
+align:center;
+	
+	border:1px solid black;	
+	
+	 width:1020px;
+    	  height:100px;
+	border-radius:12px;
+    	  background-color:white;
+      text-align:center;
+	
+}
+
+
+
